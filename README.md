@@ -23,7 +23,7 @@ Me chamo Híttalo Henrick, tenho 21 anos. Atualmente, estou cursando **Ciência 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👽 Linguagens e Tecnologias
 
 <img 
     align="left" 
