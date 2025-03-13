@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Híttalo Henrick
+# 💻 Híttalo Henrick
 
 **`Desenvolvedor em Formação`**
 
