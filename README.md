@@ -4,16 +4,6 @@
 
 Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento Front-End**. Estou aprendendo **HTML, CSS, JavaScript, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.  
 
-<p align="left">
-    <a href="https://github.com/hittalohenrick?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Hittalohenrick?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 👽 Linguagens e Tecnologias
