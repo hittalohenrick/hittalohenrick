@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento Front-End**. Estou aprendendo **HTML, CSS, JavaScript, TypeScript, React**, e também explorando **Python para automações** e **Node.js**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.  
+Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento Front-End**. Estou aprendendo **HTML, CSS, JavaScript, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.  
 
 <p align="left">
     <a href="https://github.com/hittalohenrick?tab=repositories&sort=stargazers">
