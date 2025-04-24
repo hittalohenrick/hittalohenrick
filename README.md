@@ -1,9 +1,8 @@
 # 💻 Híttalo Henrick
 
-**Desenvolvedor em Formação**
+**`Desenvolvedor em Formação`**
 
-Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento**. Estou aprendendo **JavaScript, Node, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**. 
----
+Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento**. Estou aprendendo **JavaScript, Node, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.---
 
 ### 👽 Linguagens e Tecnologias
 
