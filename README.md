@@ -1,10 +1,12 @@
 # 💻 Híttalo Henrick
 
-**`Desenvolvedor em Formação`**
+**`Developer in Training`**
 
-Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento**. Estou aprendendo **JavaScript, Node, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.
+I'm currently pursuing a **Bachelor's degree in Computer Science**, focusing on **Development**. I'm learning **JavaScript, Node, TypeScript, React**, and also exploring **Python for automation**. I have a growing interest in **Linux** and have basic knowledge of **C**. I'm also planning to study **C# for game development with Unity**.
 
-### 👽 Linguagens e Tecnologias
+---
+
+### 👽 Languages & Technologies
 
 <img 
     align="left" 
@@ -89,7 +91,9 @@ Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvi
 
 <br> <br>
 
-### 📊 **Estatísticas**
+---
+
+### 📊 **GitHub Stats**
 
 <p>
   <img 
@@ -97,13 +101,13 @@ Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hittalohenrick&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=hittalohenrick&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hittalohenrick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hittalohenrick&theme=tokyonight&layout=compact&custom_title=Top Technologies&langs_count=9" 
   />
 </p>
