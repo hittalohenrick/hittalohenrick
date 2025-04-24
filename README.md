@@ -2,8 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento**. Estou aprendendo **HTML, CSS, JavaScript, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.  
-
+Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvimento**. Estou aprendendo **JavaScript, Node, TypeScript, React**, e também explorando **Python para automações**. Tenho um interesse crescente por **Linux** e também possuo noções de **C**, bem como pretendo estudar **C# para desenvolvimento de jogos com Unity**.
 ---
 
 ### 👽 Linguagens e Tecnologias
@@ -31,6 +30,14 @@ Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img 
     align="left" 
@@ -83,7 +90,7 @@ Atualmente, estou cursando **Ciência da Computação** e focado em **Desenvolvi
 
 <br> <br>
 
-### 📊 **Estatísticas e Projetos**
+### 📊 **Estatísticas**
 
 <p>
   <img 
