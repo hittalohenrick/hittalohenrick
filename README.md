@@ -104,5 +104,11 @@ I'm currently pursuing a **Bachelor's degree in Computer Science**, focusing on 
     src="https://github-readme-stats.vercel.app/api?username=hittalohenrick&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
+ <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hittalohenrick&theme=tokyonight&layout=compact&custom_title=Top Technologies&langs_count=9" 
+  />
  
 </p>
