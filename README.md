@@ -1,12 +1,10 @@
 # 💻 Híttalo Henrick
 
-**`Developer in Training`**
+**`Desenvolvedor em Formação`**
 
-I'm currently pursuing a **Bachelor's degree in Computer Science**, focusing on **Development**. I'm learning **JavaScript, Node, TypeScript, React**, and also exploring **Python for automation**. I have a growing interest in **Linux** and have basic knowledge of **C**. I'm also planning to study **C# for game development with Unity**.
+Atualmente, curso **Ciência da Computação** com foco em **Desenvolvimento de Software**, buscando aprimorar meus conhecimentos em **JavaScript**, **Node** e **React**. Também tenho noções de **Python** e **C**, além de um interesse crescente por **Linux**
 
----
-
-### 👽 Languages & Technologies
+### 👽 Linguagens & Tecnologias
 
 <img 
     align="left" 
@@ -39,14 +37,6 @@ I'm currently pursuing a **Bachelor's degree in Computer Science**, focusing on 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -93,7 +83,7 @@ I'm currently pursuing a **Bachelor's degree in Computer Science**, focusing on 
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Status**
 
 <p>
   <img 
